@@ -1,6 +1,6 @@
 # FB-ADS-Manager
 ### The best tool for working with Facebook.
-![1](https://github.com/FBadsManager/FB-ADS-Manager/assets/170012501/acf1dfa8-9fb3-49e4-9425-91aab866039d)
+![1](https://github.com/FBadsManager/FB-ADS-Manager/assets/170012501/1b0a38d8-19f2-48c3-955a-c2e3ea3d2675)
 
 > 1. High speed
 > 2. Http/s + Socks4 + Socks5 proxy support

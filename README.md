@@ -15,3 +15,6 @@ After the end of beta testing - $ 300 per month for new users
 ### Update plans:
 > 1. Update GUI
 > 2. Add an automatic campaign launch feature
+
+### Download
+<code> https://github.com/FBadsManager/FB-ADS-Manager/releases/tag/1.0 </code>
